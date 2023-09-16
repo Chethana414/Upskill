@@ -1,0 +1,75 @@
+
+Copyright (c) 2021 Kirill N.
+Software License Agreement for "sqliteonline.com" and external module
+
+
+Please read this software license agreement (“License”) carefully before using the "sqliteonline.com" and external
+module. By using the software, you are agreeing to be bound by the terms of this License. If you do not agree to the
+terms of this License, do not use the software.
+
+
+"sqliteonline.com" and external module are licensed, not sold, to you by Kirill N. For use only under the terms of this
+License. Kirill N. retain ownership of the "sqliteonline.com" and external module, reserve all rights not expressly
+granted to you. Subject to the terms and conditions of this License, you are granted a limited non-exclusive license to
+use the "sqliteonline.com" and external module. You may not rent, lease, lend, redistribute or sublicense the
+"sqliteonline.com" and external module.
+
+
+The use of external modules is permitted only in conjunction with the site "sqliteonline.com". It is forbidden to make
+copy and any or other actions for transferring the site and using it on a non-Internet and other domain.
+
+
+No Reverse Engineering. You may not, and you agree not to or enable others to, decompile, reverse engineer, disassemble,
+attempt to derive the source code of, decrypt, modify, or create derivative works of the "sqliteonline.com" and external
+module or any services provided by the or any part thereof.
+
+
+Title and intellectual property rights in and to any content displayed by or accessed through the "sqliteonline.com"
+and external Software belongs to the respective content owner. Such content may be protected by copyright or other
+intellectual property laws and treaties, and may be subject to terms of use of the third party providing
+such content. This License does not grant you any rights to use such content nor does it guarantee that
+such content will continue to be available to you.
+
+
+This licensing is not a final legal rights document. It can be changed in a general or special case at the discretion
+of the Kirill N.
+
+
+General disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+Third Party Software
+https://github.com/sql-js/sql.js
+https://github.com/FortAwesome/Font-Awesome
+https://github.com/eligrey/FileSaver.js
+https://github.com/codemirror/CodeMirror
+https://github.com/apvarun/toastify-js
+https://github.com/chartjs/Chart.js
+https://github.com/mysqljs/mysql
+https://github.com/mariadb-corporation/mariadb-connector-nodejs
+https://github.com/brianc/node-postgres
+https://github.com/tediousjs/node-mssql
+https://github.com/oracle/node-oracledb
+https://github.com/expressjs/express
+https://github.com/socketio/socket.io
+https://github.com/seanmonstar/warp
+https://github.com/serde-rs/serde
+https://github.com/rusqlite/rusqlite
+https://github.com/blackbeam/rust-mysql-simple
+https://github.com/sfackler/rust-postgres
+https://github.com/RustCrypto/block-ciphers
+https://github.com/uuid-rs/uuid
+https://github.com/rust-lang/futures-rs
+https://github.com/tokio-rs/tokio
+https://github.com/rust-random/rand
+https://github.com/KokaKiwi/rust-hex
+https://github.com/mehcode/config-rs
+https://github.com/chronotope/chrono
+https://github.com/alexcrichton/toml-rs
+https://github.com/RustCrypto/hashes
+https://github.com/zeta12ti/parse_duration
+https://github.com/rust-lang/rust/blob/master/LICENSE-MIT
